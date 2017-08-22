@@ -1,0 +1,2 @@
+# htacces
+htaccess patterns
